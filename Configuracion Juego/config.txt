@@ -1,0 +1,31 @@
+
+-------------------------------------------------------------------------------
+----------------------- ARCHIVO CONFIGURACION TANKS WAR 2016 ------------------
+-------------------------------------------------------------------------------
+
+
+altoTablero = 400
+
+anchoTablero = 400
+
+anchoTanque = 20
+
+altoTanque = 20
+
+anchoMunicion = 10
+
+altoMunicion = 10
+
+anchoBonusCombustible = 20
+
+altoBonusCombustible = 20
+
+altoBonusEscudo = 20
+
+anchoBonusEscudo = 20
+
+duracionJuego = 10000000
+
+radarAlcanceMaximo = 100
+
+tiempoEsperaJuego = 100000
